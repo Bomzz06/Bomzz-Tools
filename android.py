@@ -1,7 +1,7 @@
 import os
 import pafy
 
-path = "/storage/emulated/0/Python Downloader"
+path = "/storage/emulated/0/BomzzTools"
 
 if not FileExistsError(path):
     os.mkdir(path)
@@ -13,10 +13,10 @@ else:
 
 import time
 time.sleep(2)
-os.chdir("/storage/emulated/0/Python Downloader")
+os.chdir("/storage/emulated/0/BomzzTools")
 print("Download file auto located to : {0}".format(os.getcwd()))
 
-print("Python Downloader Tools")
+print("Welcome to Bomzz-Tools!")
 def mainMenu():
     print("1 - .mp4 Youtube Downloader")
     print("2 - .mp3 Youtube Downloader")
