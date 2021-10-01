@@ -30,7 +30,7 @@ def MP4():
     url = pafy.new(mp4downloader)
 
     print("Video Title : "+url.title)
-    print("Please wait ...")
+    print("Please Wait! Delay : 2s")
     import time
     time.sleep(2)
 
