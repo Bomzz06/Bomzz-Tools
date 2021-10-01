@@ -21,6 +21,9 @@ $ pip install youtube_dl
 $ git clone https://github.com/Bomzz06/Bomzz-Tools
 ```
 ```
+$ cd Bomzz-Tools
+```
+```
 $ python windows.py
 ```
 ---------------------------------------------------------
@@ -52,6 +55,9 @@ $ pkg install git
 ---------------------------------------------------------
 ```
 $ git clone https://github.com/Bomzz06/Bomzz-Tools
+```
+```
+$ cd Bomzz-Tools
 ```
 ```
 $ python android.py
