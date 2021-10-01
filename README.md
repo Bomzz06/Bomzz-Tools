@@ -32,6 +32,8 @@ For android user :
 2. You must to install python
 ```
 $ pkg install python
+  *If you have a problem like this -> E: Unable to locate package
+    Then you have to do a command like this -> termux-setup-storage
 ```
 3. Perform this command in order to run the available tools
 ---------------------------------------------------------
