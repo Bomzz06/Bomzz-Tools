@@ -14,7 +14,7 @@ else:
 import time
 time.sleep(2)
 os.chdir("/storage/emulated/0/BomzzTools")
-print("Download file auto located to : {0}".format(os.getcwd()))
+print("Downloaded file auto located to : {0}".format(os.getcwd()))
 
 print("Welcome to Bomzz-Tools!")
 def mainMenu():
