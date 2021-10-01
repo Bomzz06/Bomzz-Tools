@@ -18,10 +18,10 @@ $ pip install youtube_dl
 5. After that, you need to perform this command
 ---------------------------------------------------------
 ```
-git clone https://github.com/Bomzz06/Bomzz-Tools
+$ git clone https://github.com/Bomzz06/Bomzz-Tools
 ```
 ```
-python windows.py
+$ python windows.py
 ```
 ---------------------------------------------------------
 Congratulations! You can use the features of these tools!
@@ -51,10 +51,10 @@ $ pkg install git
 5. After that, you need to perform this command
 ---------------------------------------------------------
 ```
-git clone https://github.com/Bomzz06/Bomzz-Tools
+$ git clone https://github.com/Bomzz06/Bomzz-Tools
 ```
 ```
-python android.py
+$ python android.py
 ```
 ---------------------------------------------------------
 Congratulations! You can use the features of these tools!
