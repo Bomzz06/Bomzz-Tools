@@ -24,7 +24,7 @@ git clone https://github.com/Bomzz06/Bomzz-Tools
 python windows.py
 ```
 ---------------------------------------------------------
-6. Congratulations! You can use the features of these tools!
+Congratulations! You can use the features of these tools!
 ---------------------------------------------------------
 For android user :
 1. Open the command prompt or any software where the software can run python or git.
@@ -46,7 +46,7 @@ $ pip install youtube_dl
 ```
 $ pkg install git
 ```
-6. After that, you need to perform this command
+5. After that, you need to perform this command
 ---------------------------------------------------------
 ```
 git clone https://github.com/Bomzz06/Bomzz-Tools
@@ -55,4 +55,5 @@ git clone https://github.com/Bomzz06/Bomzz-Tools
 python android.py
 ```
 ---------------------------------------------------------
-6. Congratulations! You can use the features of these tools!
+Congratulations! You can use the features of these tools!
+---------------------------------------------------------
